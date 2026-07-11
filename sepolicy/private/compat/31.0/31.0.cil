@@ -1,3 +1,5 @@
+(type lpm)
+(type lpm_exec)
 (typeattributeset lpm_31_0 (lpm))
 (expandtypeattribute (lpm_31_0) true)
 (typeattributeset lpm_exec_31_0 (lpm_exec))
